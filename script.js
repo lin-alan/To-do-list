@@ -44,7 +44,7 @@ function addTask() {
         // Clear the input field
         taskInput.value = '';
     } else {
-        alert('Please enter a task.');
+        alert('Please enter a task.\nタスクを入力してください。');
     }
 }
 
